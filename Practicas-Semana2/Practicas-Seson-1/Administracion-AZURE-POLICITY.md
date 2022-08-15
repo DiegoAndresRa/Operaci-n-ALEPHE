@@ -1,6 +1,12 @@
 <img src="https://docs.microsoft.com/answers/topics/25504/icon.html?t=168508" width="80"> 
-## <center>Azure Policity</center>
-##### <center>---Creando Directivas---</center> 
+
+<h1>
+  <center>Azure Policity</center>
+</h1>
+
+<h4>
+  <center>---Creando Directivas---</center> 
+ </h4>
 
 ***Steps***:
 
